@@ -17,6 +17,12 @@ You should also be a team player.
 - Remote
 - Or on-site in Tokyo, Japan
 
+## Contract and Salary Expectation
+
+- $2000 ~ $3000 USD
+- 3 months probationary period
+- Performance review every 6 months
+
 ## Responsibilities
 
 - Participate in the entire application lifecycle
@@ -64,7 +70,7 @@ Together we develop and maintain 5 SaaS products and various tailored business s
 - Data platform
 - Analytics platform
 - Chatbots
-- Videocalls
+- Video calls
 - Commerce
 - Recommendation systems
 - Integrations with messaging platforms: Slack, Microsoft Teams, Line, Line Works, Google Meet
@@ -80,4 +86,4 @@ Together we develop and maintain 5 SaaS products and various tailored business s
 ## Apply
 
 Please apply using this link
-https://angel.co/l/2sYJNA
+https://angel.co/l/2wbYsq
