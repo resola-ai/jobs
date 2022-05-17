@@ -1,16 +1,10 @@
 # Job brief
 
-We are looking for a Senior Back-end developer to join our team.
+We are looking for an experienced data engineer to join our team. You will use various methods to transform raw data into useful data systems. For example, you’ll create algorithms and conduct statistical analysis. Overall, you’ll strive for efficiency by aligning data systems with business goals. 
 
-You will be responsible for the server side of our web applications.
+To succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources. Data engineer skills also include familiarity with several programming languages and knowledge of learning machine methods.
 
-If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you.
-
-As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience.
-
-Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
-
-You should also be a team player.
+If you are detail-oriented, with excellent organizational skills and experience in this field, we’d like to hear from you. 
 
 ## Location
 
