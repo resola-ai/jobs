@@ -40,8 +40,8 @@ Basically we implement product teams for each of the product that we develop
 - 5~10 engineers in each team
 - 1 Product Manager or Project Manager per team
 - 1 Lead Engineer
-- 1 QA Engineer
-- 1 UI/UX designer
+- 1 or more QA Engineer(s)
+- 1 or mnore UI/UX designer(s)
 
 ## Our stack
 
