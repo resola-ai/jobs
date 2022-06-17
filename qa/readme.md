@@ -20,7 +20,6 @@ Ultimately, you should monitor all stages of software development to identify an
 
 ## Contract and Salary Expectation
 
-- $1800 ~ $2500 USD
 - 3 months probationary period
 - Performance review every 6 months
 
