@@ -13,7 +13,6 @@ If you are detail-oriented, with excellent organizational skills and experience 
 
 ## Contract and Salary Expectation
 
-- $2000 ~ $3000 USD
 - 3 months probationary period
 - Performance review every 6 months
 
