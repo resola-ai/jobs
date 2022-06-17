@@ -2,30 +2,60 @@
 
 Come and join the Resola Team
 
-## Fullstack Engineer
+Open positions
 
-Apply at
+- Data Engineer
+- Fullstack Engineer
+- Backend Engineer
+- Frontend Engineer
+- QA Engineer
 
-- https://github.com/awesome-jobs/vietnam/issues/3096
-- https://angel.co/l/2wbYjt
-- https://itviec.com/it-jobs/remote-fullstack-engineer-python-react-resola-inc-4903
+Apply thru [ITViec](https://itviec.com/companies/resola-inc) or [Angel.co](https://angel.co/company/resola/jobs)
 
-## QA Engineer
+# About our Team and environment
 
-Apply at
+We are a distributed team in a multicultural environment
 
-- https://github.com/awesome-jobs/vietnam/issues/3095
-- https://angel.co/l/2wbY7x
-- https://itviec.com/it-jobs/senior-qa-engineer-remote-resola-inc-1202
+- +45 engineers 
+- From 8 nationalities
+- 50% engineers
+- Mix of on-site and remote (60%/40%)
+- We develop 5 Saas product 
 
-## Backend Engineer
+# Our workflow
 
-- https://github.com/awesome-jobs/vietnam/issues/3098
-- https://angel.co/l/2wbYsq
-- https://itviec.com/it-jobs/senior-backend-engineer-python-remote-resola-inc-3752 (note: scheduled to publish next Sunday 12/12)
+We do Agile Scrum
 
-## Frontend Engineer
+- Sprints of 2 weeks (10 working days)
+- Daily standup at first working hour
+- Scrum ceremonies every 2 weeks (sprint planning, backlog grooming, retropesctive, demo and etc...)
+- Slack for async communitcation
+- Zoom and Google Meet for video calls
+- Monthly cmeeting to check results with our CEO and AMA
 
-- https://github.com/awesome-jobs/vietnam/issues/3097
-- https://angel.co/l/2wbYoP
-- https://itviec.com/it-jobs/senior-frontend-engineer-react-remote-resola-inc-0544 (note: scheduled to publish next Saturday 12/11)
+# Team structure
+
+Basically we implement product teams for each of the product that we develop
+
+- 5~10 engineers in each team
+- 1 Product Manager or Project Manager per team
+- 1 Lead Engineer
+- 1 QA Engineer
+- 1 UI/UX designer
+
+# Our stack
+
+- Python on the backend with Django and FastAPI frameworks
+- ReactJS on the frontend
+- Mix of monolithic and modular architecture
+- Multi environments; develop, staging and production
+- Github Action as CI with many gates/checks
+- AWS Codepipeline as CD
+- SonarCloud for code quality and SAST
+- Crashtest Security for DAST
+- Pingdom for uptime monitoring
+- Pagerduty for alerting
+- Sentry for error and performance monitoring and management
+- CDK for IaaS
+- AWS SecurityHub, Cloudtrail and Config for infrastructure security
+- Google Workspace for Mail, Docs, Drive, Calendar and more...
