@@ -12,7 +12,7 @@ Open positions
 
 Apply thru [ITViec](https://itviec.com/companies/resola-inc) or [Angel.co](https://angel.co/company/resola/jobs)
 
-# About our Team and environment
+## About our Team and environment
 
 We are a distributed team in a multicultural environment
 
@@ -22,7 +22,7 @@ We are a distributed team in a multicultural environment
 - Mix of on-site and remote (60%/40%)
 - We develop 5 Saas product 
 
-# Our workflow
+## Our workflow
 
 We do Agile Scrum
 
@@ -33,7 +33,7 @@ We do Agile Scrum
 - Zoom and Google Meet for video calls
 - Monthly cmeeting to check results with our CEO and AMA
 
-# Team structure
+## Team structure
 
 Basically we implement product teams for each of the product that we develop
 
@@ -43,7 +43,7 @@ Basically we implement product teams for each of the product that we develop
 - 1 QA Engineer
 - 1 UI/UX designer
 
-# Our stack
+## Our stack
 
 - Python on the backend with Django and FastAPI frameworks
 - ReactJS on the frontend
