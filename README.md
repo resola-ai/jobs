@@ -29,9 +29,8 @@ We are a distributed team in a multicultural environment
 
 - +45 engineers 
 - From 8 nationalities
-- 50% engineers
 - Mix of on-site and remote (60%/40%)
-- We develop 5 Saas product 
+- 5 SaaS products and teams
 
 ## Our workflow
 
