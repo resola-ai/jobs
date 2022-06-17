@@ -1,8 +1,8 @@
 # Jobs
 
-Come and join the Resola Team
+Come and join our team at Resola
 
-Open positions
+## Open Positions
 
 - [Data Engineer](data/readme.md)
 - [Fullstack Engineer](fullstack/readme.md)
@@ -10,7 +10,18 @@ Open positions
 - [Frontend Engineer](frontend/readme.md)
 - [QA Engineer](qa/readme.md)
 
-Apply thru [ITViec](https://itviec.com/companies/resola-inc) or [Angel.co](https://angel.co/company/resola/jobs)
+## Apply with
+
+- [ITViec](https://itviec.com/companies/resola-inc) 
+- [Angel.co](https://angel.co/company/resola/jobs)
+
+## What we do
+
+- [Synalio](https://synal.io)
+- [Synalio EC](https://synal.io/lp/ec/)
+- [Libero](https://libero-app.com)
+- [PEP](https://pep.work)
+- [Virtualstore](https://virtualstore.jp)
 
 ## About our Team and environment
 
