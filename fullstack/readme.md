@@ -15,7 +15,6 @@ You should also be a team player.
 
 ## Contract and Salary Expectation
 
-- $2000 ~ $3500 USD
 - 3 months probationary period
 - Performance review every 6 months
 
