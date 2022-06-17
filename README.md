@@ -4,11 +4,11 @@ Come and join the Resola Team
 
 Open positions
 
-- Data Engineer
-- Fullstack Engineer
-- Backend Engineer
-- Frontend Engineer
-- QA Engineer
+- [Data Engineer](data/readme.md)
+- [Fullstack Engineer](fullstack/readme.md)
+- [Backend Engineer](backend/readme.md)
+- [Frontend Engineer](frontend/readme.md)
+- [QA Engineer](qa/readme.md)
 
 Apply thru [ITViec](https://itviec.com/companies/resola-inc) or [Angel.co](https://angel.co/company/resola/jobs)
 
