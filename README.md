@@ -38,10 +38,10 @@ We do Agile Scrum
 
 - Sprints of 2 weeks (10 working days)
 - Daily standup at first working hour
-- Scrum ceremonies every 2 weeks (sprint planning, backlog grooming, retropesctive, demo and etc...)
-- Slack for async communitcation
+- Scrum ceremonies every 2 weeks (sprint planning, backlog grooming, retrospective, demo and etc...)
+- Slack for async communication
 - Zoom and Google Meet for video calls
-- Monthly cmeeting to check results with our CEO and AMA
+- Monthly meeting to check results with our CEO and AMA
 
 ## Team structure
 
@@ -51,7 +51,7 @@ Basically we implement product teams for each of the product that we develop
 - 1 Product Manager or Project Manager per team
 - 1 Lead Engineer
 - 1 or more QA Engineer(s)
-- 1 or mnore UI/UX designer(s)
+- 1 or more UI/UX designer(s)
 
 ## Our stack
 
