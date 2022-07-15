@@ -12,6 +12,7 @@ Come and join our team at Resola
 
 ## Apply with
 
+- [Application form](https://forms.gle/AFBYMoWmwieWofk36)
 - [ITViec](https://itviec.com/companies/resola-inc) 
 - [Angel.co](https://angel.co/company/resola/jobs)
 
