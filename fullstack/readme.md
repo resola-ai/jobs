@@ -33,7 +33,7 @@ You should also be a team player.
 
 ## Requirements
 
-- Proven experience  (+5 years) as a Full Stack Engineer or similar role
+- +5 years Proven experience as a Full Stack Engineer or similar role
 - Being familiar with Django or at least one other Python web framework (e.g. fast-api)
 - Experience with AWS
 - Familiarity with common stacks
