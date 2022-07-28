@@ -45,7 +45,6 @@ You should also be a team player.
 - Being familiar with Django or at least one other Python web framework (e.g. fast-api)
 - Experience with AWS
 - Familiarity with common stacks
-- Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, ReactJS, VueJS)
 - Knowledge of multiple back-end languages and frameworks (e.g. Python, Go, NodeJS, Django, FastAPI)
 - Familiarity with databases (e.g. MySQL, MongoDB, DynamoDB)
 - Familiarity with development tools (e.g. Git, Docker)
@@ -58,7 +57,7 @@ You should also be a team player.
 - Familiarity integrating third party APIs
 - Can communicate in Japanese with our internal team
 - Experience developing and operating SaaS products and services
-- Frontend development
+- Familiarity with front-end development
 
 ## Why it would be awesome to work with us
 
