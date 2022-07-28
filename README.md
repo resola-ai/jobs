@@ -8,12 +8,13 @@ Come and join our team at Resola
 - [Fullstack Engineer](fullstack/readme.md)
 - [Backend Engineer](backend/readme.md)
 - [Frontend Engineer](frontend/readme.md)
+- [Mobile Engineer](mobile/readme.md)
 - [QA Engineer](qa/readme.md)
 
 ## Apply with
 
 - [Application form](https://forms.gle/AFBYMoWmwieWofk36)
-- [ITViec](https://itviec.com/companies/resola-inc) 
+- [ITviec](https://itviec.com/companies/resola-inc) 
 - [Angel.co](https://angel.co/company/resola/jobs)
 
 ## What we do
