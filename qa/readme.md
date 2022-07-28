@@ -21,6 +21,7 @@ Ultimately, you should monitor all stages of software development to identify an
 ## Contract and Salary Expectation
 
 - 3 months probationary period
+- 7 days of paid leave annually 
 - Performance review every 6 months
 
 ## Responsibilities
@@ -61,13 +62,30 @@ Ultimately, you should monitor all stages of software development to identify an
 
 ## Why it would be awesome to work with us
 
-We are a distributed team in a multi cultural environment, 35+ engineers from 8 nationalities, 60% engineers from Vietnam
-Together we develop and maintain 5 SaaS products and various tailored business solutions for our clients
+- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
+- 60% engineers from Vietnam
+- 5 SaaS products in production
+- Mix of on-site(50%) and remote (60%)
+- Only work from Mon-Fri
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
+
+## Tech stack
+
+- Backends with Python with Django and FastAPI
+- Frontends with React and Typescript
+- Support systems with NodeJS and AWS Lambdas
+- Multi databases: MySQL, MongoDB, DynamoDB, S3 + Athena, S3 Snowflake
+- Background jobs with Celery, SQS and others
+- ETL with Airflow
+- Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
+- Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
+- Test managemnet and automation with RobotFramework, Cypress, TestRail
 
 ## Interesting engineering projects
 
 - Data platform
-- Analytics platform
+- Custom Data Platform
+- Marketing Automation platform
 - Chatbots
 - Video calls
 - Commerce
@@ -77,6 +95,7 @@ Together we develop and maintain 5 SaaS products and various tailored business s
 ## Our products and services
 
 - [Synalio](https://synal.io/)
+- [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
 - [Shinan Maker](https://shindan-maker.com/)
@@ -85,4 +104,4 @@ Together we develop and maintain 5 SaaS products and various tailored business s
 ## Apply
 
 Please apply using this link
-https://angel.co/l/2wbY7x
+https://forms.gle/MY1ijDusWw1hythUA
