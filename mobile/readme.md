@@ -52,7 +52,7 @@ Ultimately, you should be able to design and build the next generation of our mo
 - We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
 - 60% engineers from Vietnam
 - 5 SaaS products in production
-- Mix of on-site(50%) and remote (60%)
+- Mix of on-site(40%) and remote (60%)
 - Only work from Mon-Fri
 - Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
 
