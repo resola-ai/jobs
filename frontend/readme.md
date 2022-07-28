@@ -18,16 +18,18 @@ You should also be a team player.
 
 ## Contract and Salary Expectation
 
+- Competitive salary $2500 ~ $3500
 - 3 months probationary period
+- 7 days of paid leave annually 
 - Performance review every 6 months
 
 ## Responsibilities
 
 - Use markup languages like HTML to create user-friendly web experiences
 - Maintain and improve application
-- Optimize applications for performance and usuability
+- Optimize applications for performance and usability
 - Design mobile-based features
-- Collaborate with back-end developers and web designers to improve usuability
+- Collaborate with back-end developers and web designers to improve usability
 - Get feedback from, and build solutions for, users and customers
 - Write functional requirement documents and guides
 - Help back-end developers with coding and troubleshooting
