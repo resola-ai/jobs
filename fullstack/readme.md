@@ -66,11 +66,11 @@ You should also be a team player.
 
 - Backends with Python with Django and FastAPI
 - Frontends with React and Typescript
-- Suppport systems with NodeJS and AWS Lambdas
+- Support systems with NodeJS and AWS Lambdas
 - Multi databases: MySQL, MongoDB, DynamoDB, S3 + Athena, S3 Snowflake
 - Background jobs with Celery, SQS and others
 - ETL with Airflow
-- Alarming and monitoring with AWS Cloudwatch, Sentry, PagerDuty and Pingdom
+- Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
 - Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
 
 ## Interesting engineering projects
