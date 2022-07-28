@@ -41,13 +41,14 @@ You should also be a team player.
 
 ## Requirements
 
-- Proven work experience as a Back-end developer
-- In-depth understanding of the entire web development process (design, development and deployment)
+- +5 years proven experience as a Full Stack Engineer or similar role
+- Being familiar with Django or at least one other Python web framework (e.g. fast-api)
+- Experience with AWS
 - Familiarity with common stacks
-- Knowledge of multiple back-end languages (e.g. Python, Go, NodeJS)
-- Knowledge of multiple frameworks (e.g. FastAPI, Django, Flask)
-- Familiarity with databases (e.g. MySQL, MongoDB)
-- Familiarity with development tools (e.g. Git, Docker, AWS)
+- Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, ReactJS, VueJS)
+- Knowledge of multiple back-end languages and frameworks (e.g. Python, Go, NodeJS, Django, FastAPI)
+- Familiarity with databases (e.g. MySQL, MongoDB, DynamoDB)
+- Familiarity with development tools (e.g. Git, Docker)
 - Excellent communication and teamwork skills
 - Great attention to detail
 - Organizational skills
