@@ -16,6 +16,7 @@ You should also be a team player.
 ## Contract and Salary Expectation
 
 - 3 months probationary period
+- 7 days of paid leave annually 
 - Performance review every 6 months
 
 ## Responsibilities
@@ -32,13 +33,14 @@ You should also be a team player.
 
 ## Requirements
 
-- Proven experience as a Full Stack Engineer or similar role
-- Experience developing web and mobile applications
+- Proven experience  (+5 years) as a Full Stack Engineer or similar role
+- Being familiar with Django or at least one other Python web framework (e.g. fast-api)
+- Experience with AWS
 - Familiarity with common stacks
 - Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript)
 - Knowledge of multiple back-end languages (e.g. Python, Go, NodeJS)
-- Knowledge of multiple frameworks (e.g. React, Django)
-- Familiarity with databases (e.g. MySQL, MongoDB)
+- Knowledge of multiple front-end frameworks (e.g. React, Django)
+- Familiarity with databases (e.g. MySQL, MongoDB, DynamoDB)
 - Familiarity with development tools (e.g. Git, Docker)
 - Excellent communication and teamwork skills
 - Great attention to detail
@@ -77,4 +79,4 @@ Together we develop and maintain 5 SaaS products and various tailored business s
 ## Apply
 
 Please apply using this link
-https://angel.co/l/2wbYjt
+https://forms.gle/MY1ijDusWw1hythUA
