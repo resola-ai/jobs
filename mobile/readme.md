@@ -17,7 +17,7 @@ Ultimately, you should be able to design and build the next generation of our mo
 - 3 months probationary period
 - 7 days of paid leave annually 
 - Performance review every 6 months
-- 
+
 ## Responsibilities
 
 - Support the entire application lifecycle (concept, design, test, release and support)
