@@ -14,7 +14,6 @@ Ultimately, you should be able to design and build the next generation of our mo
 
 ## Contract and Salary Expectation
 
-- Competitive salary $2500 ~ $3500
 - 3 months probationary period
 - 7 days of paid leave annually 
 - Performance review every 6 months
