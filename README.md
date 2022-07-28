@@ -29,9 +29,9 @@ Come and join our team at Resola
 
 We are a distributed team in a multicultural environment
 
-- +45 engineers 
-- From 8 nationalities
-- Mix of on-site and remote (60%/40%)
+- +40 engineers 
+- From 9 nationalities
+- Mix of on-site and remote (40%/60%)
 - 5 SaaS products and teams
 
 ## Our workflow
@@ -47,7 +47,7 @@ We do Agile Scrum
 
 ## Team structure
 
-Basically we implement product teams for each of the product that we develop
+Product teams for each of the product that we develop
 
 - 5~10 engineers in each team
 - 1 Product Manager or Project Manager per team
