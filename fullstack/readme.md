@@ -55,13 +55,29 @@ You should also be a team player.
 
 ## Why it would be awesome to work with us
 
-We are a distributed team in a multi cultural environment, 35+ engineers from 8 nationalities, 60% engineers from Vietnam
-Together we develop and maintain 5 SaaS products and various tailored business solutions for our clients
+- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
+- 60% engineers from Vietnam
+- 5 SaaS products in production
+- Mix of on-site(50%) and remote (60%)
+- Only work from Mon-Fri
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
+
+## Tech stack
+
+- Backends with Python with Django and FastAPI
+- Frontends with React and Typescript
+- Suppport systems with NodeJS and AWS Lambdas
+- Multi databases: MySQL, MongoDB, DynamoDB, S3 + Athena, S3 Snowflake
+- Background jobs with Celery, SQS and others
+- ETL with Airflow
+- Alarming and monitoring with AWS Cloudwatch, Sentry, PagerDuty and Pingdom
+- Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
 
 ## Interesting engineering projects
 
 - Data platform
-- Analytics platform
+- Custom Data Platform
+- Marketing Automation platform
 - Chatbots
 - Video calls
 - Commerce
@@ -71,6 +87,7 @@ Together we develop and maintain 5 SaaS products and various tailored business s
 ## Our products and services
 
 - [Synalio](https://synal.io/)
+- [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
 - [Shinan Maker](https://shindan-maker.com/)
