@@ -34,6 +34,7 @@ Ultimately, you should be able to design and build the next generation of our mo
 ## Requirements
 
 - +5 years proven work experience as a Mobile Engineer or similar role
+- Communicate clearly and effectively at all levels in English
 - Demonstrable portfolio of released applications on the App store or the Android market
 - In-depth knowledge of at least one programming language like Swift and Java
 - Experience with third-party libraries and APIs
