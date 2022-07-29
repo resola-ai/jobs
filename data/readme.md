@@ -37,6 +37,7 @@ If you are detail-oriented, with excellent organizational skills and experience 
 ## Requirements
 
 - +3 years proven experience as a data engineer or in a similar role
+- Communicate clearly and effectively at all levels in English
 - Technical expertise with data models, data mining, and segmentation techniques
 - Knowledge of programming languages  (e.g. Python)
 - Hands-on experience with SQL database design
