@@ -1,6 +1,6 @@
 # Job brief
 
-We are looking for a Senior Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality.
+We are looking for a Senior Quality Assurance Engineer to develop and execute exploratory and automated tests to ensure product quality.
 
 QA engineer responsibilities include designing and implementing tests, debugging and defining corrective actions.
 You will also review system requirements and track quality assurance metrics.
@@ -41,8 +41,8 @@ Ultimately, you should monitor all stages of software development to identify an
 
 ## Requirements
 
-- Proven work experience in software development
-- Proven work experience as a Senior Quality Assurance engineer
+- +5 years proven work experience as a Senior Quality Assurance Engineer
+- Communicate clearly and effectively at all levels in English
 - Strong knowledge of software QA methodologies, tools and processes
 - Experience in writing clear, concise and comprehensive test plans and test cases
 - Hands-on experience with both white box and black box testing
