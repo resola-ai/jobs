@@ -1,4 +1,4 @@
-# Job brief
+## Job brief
 
 We are looking for a Senior Back-end developer to join our team.
 
