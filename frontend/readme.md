@@ -38,6 +38,7 @@ You should also be a team player.
 ## Requirements
 
 - +5 years proven work experience as a Front-end developer
+- Communicate clearly and effectively at all levels in English
 - In-depth understanding of the entire web development process
 - Understanding of layout aesthetics
 - Knowledge of multiple front-end languages and libraries (e.g. HTML/CSS, Javascript, Tailwind CSS)
