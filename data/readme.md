@@ -37,28 +37,29 @@ If you are detail-oriented, with excellent organizational skills and experience 
 ## Requirements
 
 - +3 years proven experience as a data engineer or in a similar role
-- Communicate clearly and effectively at all levels in English
 - Technical expertise with data models, data mining, and segmentation techniques
 - Knowledge of programming languages  (e.g. Python)
 - Hands-on experience with SQL database design
 - Experience with AWS
-- Experience with AWS Athena
+- Experience with Athena
 - Experience with Airflow
 - Experience with Snowflake
+- Experience with development tools (e.g. Git, Github, Docker)
 - Great numerical and analytical skills
-- Excellent communication and teamwork skills
+- Communicate clearly and effectively at all levels in English
+- Excellent communication skills and can collaborate effectively with stakeholders at different levels of seniority
 - Great attention to detail
 - Organizational skills
 
 ## Nice to have
 
-- Familiarity integrating third party APIs
-- Can communicate in Japanese with our internal team
+- Familiarity with IaaS tools such as CDK and Terraform
+- Experience with Lean/Agile methodologies
+- Can communicate in Japanese with our internal teams
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
-- 60% engineers from Vietnam
+- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
 - Mix of on-site(40%) and remote (60%)
 - Only work from Mon-Fri
@@ -92,7 +93,6 @@ If you are detail-oriented, with excellent organizational skills and experience 
 - [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
-- [Shinan Maker](https://shindan-maker.com/)
 - [Virtual Store](https://virtualstore.jp/)
 
 ## Apply

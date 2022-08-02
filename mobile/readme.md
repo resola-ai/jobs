@@ -34,24 +34,27 @@ Ultimately, you should be able to design and build the next generation of our mo
 ## Requirements
 
 - +5 years proven work experience as a Mobile Engineer or similar role
-- Communicate clearly and effectively at all levels in English
 - Demonstrable portfolio of released applications on the App store or the Android market
 - In-depth knowledge of at least one programming language like Swift and Java
-- Experience with third-party libraries and APIs
-- Familiarity with OOP design principles
 - Excellent analytical skills with a good problem-solving attitude
-- Ability to perform in a team environment
+- Experience with third-party libraries and APIs
+- Experience with OOP design principles
+- Experience with development tools (e.g. Git, Github, Docker)
+- Communicate clearly and effectively at all levels in English
+- Excellent communication skills and can collaborate effectively with stakeholders at different levels of seniority.
+- Great attention to detail
+- Organizational skills
 
 ## Nice to have
 
-- Can communicate in Japanese with our internal team
+- Can communicate in Japanese with our internal teams
 - Experience developing and operating SaaS products and services
+- Familiarity with back-end development
 - Familiarity with AWS services
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
-- 60% engineers from Vietnam
+- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
 - Mix of on-site(40%) and remote (60%)
 - Only work from Mon-Fri
@@ -85,7 +88,6 @@ Ultimately, you should be able to design and build the next generation of our mo
 - [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
-- [Shinan Maker](https://shindan-maker.com/)
 - [Virtual Store](https://virtualstore.jp/)
 
 ## Apply

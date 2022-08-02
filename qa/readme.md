@@ -42,28 +42,27 @@ Ultimately, you should monitor all stages of software development to identify an
 ## Requirements
 
 - +5 years proven work experience as a Senior Quality Assurance Engineer
-- Communicate clearly and effectively at all levels in English
 - Strong knowledge of software QA methodologies, tools and processes
 - Experience in writing clear, concise and comprehensive test plans and test cases
-- Hands-on experience with both white box and black box testing
-- Hands-on experience with automated testing tools
+- Experience with both white box and black box testing
+- Experience with automated testing tools
 - Experience working in an Agile/Scrum development process
 - Experience with performance and/or security testing is a plus
-- Excellent communication and teamwork skills
+- Communicate clearly and effectively at all levels in English
+- Excellent communication skills and can collaborate effectively with stakeholders at different levels of seniority.
 - Great attention to detail
 - Organizational skills
 
 ## Nice to have
 
 - Familiarity with SQL and programming
-- Can communicate in Japanese with our internal team
-- Experience testing SaaS products and services
+- Can communicate in Japanese with our internal teams
+- Experience developing and operating SaaS products and services
 - Familiarity with AWS services
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
-- 60% engineers from Vietnam
+- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
 - Mix of on-site(40%) and remote (60%)
 - Only work from Mon-Fri
@@ -98,7 +97,6 @@ Ultimately, you should monitor all stages of software development to identify an
 - [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
-- [Shinan Maker](https://shindan-maker.com/)
 - [Virtual Store](https://virtualstore.jp/)
 
 ## Apply

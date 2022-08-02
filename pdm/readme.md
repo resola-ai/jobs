@@ -1,12 +1,8 @@
 
 ## Job brief
 
-We are looking for a Senior Project Manager to be responsible for handling our company's ongoing projects. 
-You will be working closely with your team members to ensure that all project requirements, deadlines, and schedules are on track. 
-Responsibilities include submitting project deliverables, preparing status reports, and establishing effective project communication plans as well as the proper execution of said plans.
-
-To be a successful candidate, you will need to have proven experience in project management and the ability to lead project teams of various sizes. 
-A Project Management Professional (PMP) certification is a huge advantage.
+We are looking for an experienced Product Manager who is passionate about building products that customers love. 
+You will join a dynamic and fast-paced environment and work with cross-functional teams to design, build and roll-out products that deliver the company’s vision and strategy.
 
 ## Location
 

@@ -38,33 +38,32 @@ You should also be a team player.
 ## Requirements
 
 - +5 years proven work experience as a Front-end developer
-- Communicate clearly and effectively at all levels in English
 - In-depth understanding of the entire web development process
 - Understanding of layout aesthetics
-- Knowledge of multiple front-end languages and libraries (e.g. HTML/CSS, Javascript, Tailwind CSS)
-- Knowledge of multiple frameworks (e.g. React, VueJS)
-- Familiarity with browser testing and debugging
-- Familiarity with development tools (e.g. Git, Docker)
-- Familiarity with software like Adobe Suite
-- Excellent communication and teamwork skills
+- Experience with multiple front-end languages and libraries (e.g. HTML/CSS, Javascript, Tailwind CSS)
+- Experience with multiple frameworks (e.g. ReactJS, VueJS)
+- Experience with browser testing and debugging
+- Experience with development tools (e.g. Git, Github, Docker)
+- Experience with software like Adobe Suite
+- Communicate clearly and effectively at all levels in English
+- Excellent communication skills and can collaborate effectively with stakeholders at different levels of seniority
 - Great attention to detail
 - Organizational skills
 
 ## Nice to have
 
 - Familiarity integrating third party APIs
-- Can communicate in Japanese with our internal team
+- Can communicate in Japanese with our internal teams
 - Experience developing and operating SaaS products and services
-- Backend development
+- Familiarity with back-end development
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
-- 60% engineers from Vietnam
+- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
 - Mix of on-site(40%) and remote (60%)
 - Only work from Mon-Fri
-- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results  
 
 ## Tech stack
 
@@ -94,7 +93,6 @@ You should also be a team player.
 - [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
-- [Shinan Maker](https://shindan-maker.com/)
 - [Virtual Store](https://virtualstore.jp/)
 
 ## Apply

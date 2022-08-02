@@ -34,33 +34,31 @@ You should also be a team player.
 ## Requirements
 
 - +5 years proven experience as a Full Stack Engineer or similar role
-- Communicate clearly and effectively at all levels in English
 - Being familiar with Django or at least one other Python web framework (e.g. FastAPI)
 - Experience with AWS
 - Familiarity with common stacks
-- Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, ReactJS, VueJS)
-- Knowledge of multiple back-end languages (e.g. Python, Go, NodeJS)
-- Familiarity with databases (e.g. MySQL, MongoDB, DynamoDB)
-- Familiarity with development tools (e.g. Git, Docker)
-- Excellent communication and teamwork skills
+- Experience with front-end languages and libraries (e.g. HTML/ CSS, JavaScript, ReactJS, VueJS)
+- Experience with back-end languages (e.g. Python, Go, NodeJS)
+- Experience with databases (e.g. MySQL, MongoDB, DynamoDB)
+- Experience with development tools (e.g. Git, Github, Docker)
+- Communicate clearly and effectively at all levels in English
+- Excellent communication skills and can collaborate effectively with stakeholders at different levels of seniority.
 - Great attention to detail
 - Organizational skills
 
 ## Nice to have
 
 - Familiarity integrating third party APIs
-- Can communicate in Japanese with our internal team
+- Can communicate in Japanese with our internal teams
 - Experience developing and operating SaaS products and services
-- Familiarity with AWS services
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 40+ engineers from 9 nationalities
-- 60% engineers from Vietnam
+- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
 - Mix of on-site(40%) and remote (60%)
 - Only work from Mon-Fri
-- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results  
 
 ## Tech stack
 
@@ -90,7 +88,6 @@ You should also be a team player.
 - [SynalioEC](https://synal.io/lp/ec/)
 - [PEP](https://pep.work/)
 - [Libero](https://libero-app.com/)
-- [Shinan Maker](https://shindan-maker.com/)
 - [Virtual Store](https://virtualstore.jp/)
 
 ## Apply
