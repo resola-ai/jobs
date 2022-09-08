@@ -67,7 +67,7 @@ We do Agile Scrum
 
 Product teams for each of the product that we develop
 
-- 5~10 engineers in each team
+- 10 or more engineers in each team
 - 1 Product Manager or Project Manager per team
 - 1 Lead Engineer
 - 1 or more QA Engineer(s)
