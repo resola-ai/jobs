@@ -38,7 +38,7 @@ Together we develop and maintain 5 SaaS products in the Marketing and Operations
 
 You can check more details in each product website or in our parent company [Givery](https://givery.co.jp/services/) website
 
-- [Synalio](https://synal.io)
+- [Synalio Web](https://synal.io)
 - [Synalio EC](https://synal.io/lp/ec/)
 - [Libero](https://libero-app.com)
 - [PEP](https://pep.work)
@@ -48,7 +48,7 @@ You can check more details in each product website or in our parent company [Giv
 
 We are a distributed team in a multicultural environment
 
-- +45 engineers and counting
+- +55 engineers and counting
 - From 9 nationalities
 - Mix of on-site (40%) and remote (60%)
 
