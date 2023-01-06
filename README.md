@@ -2,7 +2,7 @@
 
 Come and join our team at Resola
 
-## Open Positions
+## Positions
 
 - [Data Engineer](data/readme.md)
 - [Fullstack Engineer](fullstack/readme.md)
