@@ -1,17 +1,12 @@
 # Job brief
 
-We are looking for a Senior Quality Assurance Engineer to develop and execute exploratory and automated tests to ensure product quality.
+We are searching for an experienced Senior Quality Assurance Engineer to join our team and ensure the highest quality of our products. In this role, you will use your expertise to design, develop, and execute exploratory and automated tests that validate the functionality and performance of our software. You will be responsible for identifying defects and issues, debugging them, and defining corrective actions to maintain and improve product quality.
 
-QA engineer responsibilities include designing and implementing tests, debugging and defining corrective actions.
-You will also review system requirements and track quality assurance metrics.
+As the Senior Quality Assurance Engineer, you will work closely with cross-functional teams to review system requirements and ensure they are clear, testable, and meet our quality standards. You will also be responsible for continuously monitoring all stages of software development to identify and resolve system malfunctions and issues before they impact end-users. You will play an essential role in the product development process by conducting tests before product launches to ensure software runs smoothly and meets client needs while being cost-effective.
 
-The QA technician role plays an important part in our company’s product development process.
+To be successful in this role, you should have experience in developing and executing test plans, using automated testing tools, and managing multiple projects simultaneously. You should also possess excellent analytical and problem-solving skills to identify and troubleshoot software issues.
 
-Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs, while being cost-effective.
-
-If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we’d like to meet you.
-
-Ultimately, you should monitor all stages of software development to identify and resolve system malfunctions to meet quality standards.
+If you are passionate about software quality, have a track record of delivering high-quality software, and thrive in a fast-paced, collaborative environment, we encourage you to apply. We offer competitive compensation, benefits, and the opportunity to work with a dynamic team of professionals dedicated to excellence in software development.
 
 ## Location
 
@@ -21,7 +16,7 @@ Ultimately, you should monitor all stages of software development to identify an
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- 7 days of paid leave annually 
+- 5 days of paid leave annually (increase every year up to 10 days) 
 - Performance review every 6 months
 
 ## Responsibilities
@@ -78,28 +73,19 @@ Ultimately, you should monitor all stages of software development to identify an
 - ETL with Airflow
 - Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
 - Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
-- Test managemnet and automation with RobotFramework, Cypress, TestRail
-
-## Interesting engineering projects
-
-- Data platform
-- Custom Data Platform
-- Marketing Automation platform
-- Chatbots
-- Video calls
-- Commerce
-- Recommendation systems
-- Integrations with messaging platforms: Slack, Microsoft Teams, Line, Line Works, Google Meet
+- Test managemnet and automation with RobotFramework, Cypress and TestRail
 
 ## Our products and services
 
-- [Synalio](https://synal.io/)
-- [SynalioEC](https://synal.io/lp/ec/)
-- [PEP](https://pep.work/)
-- [Libero](https://libero-app.com/)
-- [Virtual Store](https://virtualstore.jp/)
+deca.marketing is an all-in-one digital marketing platform that helps businesses of all sizes to plan, execute and optimize their online marketing campaigns. With a user-friendly interface and advanced features, deca.marketing simplifies the complex process of digital marketing and enables businesses to achieve their marketing goals with ease.
 
-## Apply
+Key Features:
 
-Please apply using this link
-https://forms.gle/MY1ijDusWw1hythUA
+- Multi-Channel Marketing: deca.marketing supports multiple channels such as email, social media, search engine, and display advertising, allowing businesses to create a comprehensive marketing strategy.
+- Automation: The platform automates several processes like email campaigns, social media posts, and PPC campaigns, saving businesses time and resources.
+- Analytics and Reporting: deca.marketing provides in-depth analytics and reporting features to help businesses measure the performance of their campaigns and make data-driven decisions.
+- Customization: The platform provides advanced customization options, allowing businesses to tailor their marketing campaigns to their specific needs.
+- Collaboration: deca.marketing offers collaboration features that enable teams to work together seamlessly, making it easier for businesses to manage their campaigns efficiently.
+- Target Market: Small and medium-sized businesses that want to improve their online presence and grow their customer base.
+- Competitive Advantage: deca.marketing's competitive advantage lies in its ease of use, multi-channel marketing capabilities, advanced automation features, and in-depth analytics and reporting capabilities.
+- Value Proposition: deca.marketing provides a user-friendly platform that simplifies the complex process of digital marketing, enabling businesses to create comprehensive marketing campaigns that are effective, efficient, and data-driven. By automating several marketing processes, deca.marketing saves businesses time and resources while providing in-depth analytics and reporting features that help them make data-driven decisions.
