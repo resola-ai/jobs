@@ -1,12 +1,10 @@
 # Job brief
 
-We are looking for an experienced Data Engineer to join our team.
+We are seeking a talented and experienced Data Engineer to join our team. As a Data Engineer, you will be responsible for transforming raw data into valuable data systems by utilizing various methods, including creating algorithms and conducting statistical analysis. In addition, you will work to ensure that data systems are aligned with business goals and optimized for efficiency.
 
-You will use various methods to transform raw data into useful data systems. For example, you’ll create algorithms and conduct statistical analysis. Overall, you’ll strive for efficiency by aligning data systems with business goals. 
+To be successful in this role, you should possess strong analytical skills and the ability to combine data from different sources. Furthermore, you should be familiar with various programming languages and possess a thorough understanding of machine learning methods.
 
-To succeed in this data engineering position, you should have strong analytical skills and the ability to combine data from different sources. Data engineer skills also include familiarity with several programming languages and knowledge of learning machine methods.
-
-If you are detail-oriented, with excellent organizational skills and experience in this field, we’d like to hear from you. 
+The ideal candidate will be detail-oriented and possess excellent organizational skills, along with a proven track record of success in the field. If you are passionate about data engineering and possess the necessary skills and experience, we encourage you to apply today.
 
 ## Location
 
@@ -16,7 +14,7 @@ If you are detail-oriented, with excellent organizational skills and experience 
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- 7 days of paid leave annually 
+- Up to 10 days of paid leave annually 
 - Performance review every 6 months
 
 ## Responsibilities
@@ -59,10 +57,9 @@ If you are detail-oriented, with excellent organizational skills and experience 
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
+- We are a distributed team in a multi cultural environment 50+ engineers from 9 nationalities
 - 5 SaaS products in production
 - Mix of on-site(40%) and remote (60%)
-- Only work from Mon-Fri
 - Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
 
 ## Tech stack
@@ -76,26 +73,17 @@ If you are detail-oriented, with excellent organizational skills and experience 
 - Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
 - Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
 
-## Interesting engineering projects
-
-- Data platform
-- Custom Data Platform
-- Marketing Automation platform
-- Chatbots
-- Video calls
-- Commerce
-- Recommendation systems
-- Integrations with messaging platforms: Slack, Microsoft Teams, Line, Line Works, Google Meet
-
 ## Our products and services
 
-- [Synalio](https://synal.io/)
-- [SynalioEC](https://synal.io/lp/ec/)
-- [PEP](https://pep.work/)
-- [Libero](https://libero-app.com/)
-- [Virtual Store](https://virtualstore.jp/)
+deca.marketing is an all-in-one digital marketing platform that helps businesses of all sizes to plan, execute and optimize their online marketing campaigns. With a user-friendly interface and advanced features, deca.marketing simplifies the complex process of digital marketing and enables businesses to achieve their marketing goals with ease.
 
-## Apply
+Key Features:
 
-Please apply using this link
-https://forms.gle/MY1ijDusWw1hythUA
+- Multi-Channel Marketing: deca.marketing supports multiple channels such as email, social media, search engine, and display advertising, allowing businesses to create a comprehensive marketing strategy.
+- Automation: The platform automates several processes like email campaigns, social media posts, and PPC campaigns, saving businesses time and resources.
+- Analytics and Reporting: deca.marketing provides in-depth analytics and reporting features to help businesses measure the performance of their campaigns and make data-driven decisions.
+- Customization: The platform provides advanced customization options, allowing businesses to tailor their marketing campaigns to their specific needs.
+- Collaboration: deca.marketing offers collaboration features that enable teams to work together seamlessly, making it easier for businesses to manage their campaigns efficiently.
+- Target Market: Small and medium-sized businesses that want to improve their online presence and grow their customer base.
+- Competitive Advantage: deca.marketing's competitive advantage lies in its ease of use, multi-channel marketing capabilities, advanced automation features, and in-depth analytics and reporting capabilities.
+- Value Proposition: deca.marketing provides a user-friendly platform that simplifies the complex process of digital marketing, enabling businesses to create comprehensive marketing campaigns that are effective, efficient, and data-driven. By automating several marketing processes, deca.marketing saves businesses time and resources while providing in-depth analytics and reporting features that help them make data-driven decisions.
