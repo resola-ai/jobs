@@ -16,7 +16,7 @@ If you are passionate about software quality, have a track record of delivering 
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- 5 days of paid leave annually (increase every year up to 10 days) 
+- Up to 10 days of paid leave annually 
 - Performance review every 6 months
 
 ## Responsibilities
