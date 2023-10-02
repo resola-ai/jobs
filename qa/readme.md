@@ -16,7 +16,7 @@ If you are passionate about software quality, have a track record of delivering 
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- Up to 10 days of paid leave annually 
+- Up to 10 days of paid leave annually
 - Performance review every 6 months
 
 ## Responsibilities
@@ -59,8 +59,8 @@ If you are passionate about software quality, have a track record of delivering 
 
 - We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
-- Mix of on-site(40%) and remote (60%)
-- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
+- Mix of on-site and remote
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results
 
 ## Tech stack
 

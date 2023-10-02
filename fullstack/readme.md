@@ -16,7 +16,7 @@ You should also be a team player.
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- Up to 10 days of paid leave annually 
+- Up to 10 days of paid leave annually
 - Performance review every 6 months
 
 ## Responsibilities
@@ -56,9 +56,8 @@ You should also be a team player.
 
 - We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
-- Mix of on-site(40%) and remote (60%)
-- Only work from Mon-Fri
-- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results  
+- Mix of on-site and remote
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results
 
 ## Tech stack
 
@@ -70,6 +69,7 @@ You should also be a team player.
 - ETL with Airflow
 - Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
 - Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
+- Test managemnet and automation with RobotFramework, Cypress and TestRail
 
 ## Our products and services
 
@@ -85,4 +85,3 @@ Key Features:
 - Target Market: Small and medium-sized businesses that want to improve their online presence and grow their customer base.
 - Competitive Advantage: deca.marketing's competitive advantage lies in its ease of use, multi-channel marketing capabilities, advanced automation features, and in-depth analytics and reporting capabilities.
 - Value Proposition: deca.marketing provides a user-friendly platform that simplifies the complex process of digital marketing, enabling businesses to create comprehensive marketing campaigns that are effective, efficient, and data-driven. By automating several marketing processes, deca.marketing saves businesses time and resources while providing in-depth analytics and reporting features that help them make data-driven decisions.
-

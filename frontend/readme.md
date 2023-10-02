@@ -12,7 +12,7 @@ You should be an experienced and tech-savvy professional with a passion for fron
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- Up to 10 days of paid leave annually 
+- Up to 10 days of paid leave annually
 - Performance review every 6 months
 
 ## Responsibilities
@@ -54,9 +54,8 @@ You should be an experienced and tech-savvy professional with a passion for fron
 
 - We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
-- Mix of on-site(40%) and remote (60%)
-- Only work from Mon-Fri
-- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results  
+- Mix of on-site and remote
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results
 
 ## Tech stack
 
@@ -68,6 +67,7 @@ You should be an experienced and tech-savvy professional with a passion for fron
 - ETL with Airflow
 - Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
 - Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
+- Test managemnet and automation with RobotFramework, Cypress and TestRail
 
 ## Our products and services
 

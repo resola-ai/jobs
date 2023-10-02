@@ -14,16 +14,16 @@ The ideal candidate will be detail-oriented and possess excellent organizational
 ## Contract and Salary Expectation
 
 - 3 months probationary period
-- Up to 10 days of paid leave annually 
+- Up to 10 days of paid leave annually
 - Performance review every 6 months
 
 ## Responsibilities
 
-- Analyze and organize raw data 
+- Analyze and organize raw data
 - Build data systems and pipelines
 - Evaluate business needs and objectives
 - Interpret trends and patterns
-- Conduct complex data analysis and report on results 
+- Conduct complex data analysis and report on results
 - Prepare data for prescriptive and predictive modeling
 - Build algorithms and prototypes
 - Combine raw information from different sources
@@ -36,7 +36,7 @@ The ideal candidate will be detail-oriented and possess excellent organizational
 
 - +3 years proven experience as a data engineer or in a similar role
 - Technical expertise with data models, data mining, and segmentation techniques
-- Knowledge of programming languages  (e.g. Python)
+- Knowledge of programming languages (e.g. Python)
 - Hands-on experience with SQL database design
 - Experience with AWS
 - Experience with Athena
@@ -57,10 +57,10 @@ The ideal candidate will be detail-oriented and possess excellent organizational
 
 ## Why it would be awesome to work with us
 
-- We are a distributed team in a multi cultural environment 50+ engineers from 9 nationalities
+- We are a distributed team in a multi cultural environment 45+ engineers from 9 nationalities
 - 5 SaaS products in production
-- Mix of on-site(40%) and remote (60%)
-- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results 
+- Mix of on-site and remote
+- Flexible working schedule on demand. We don’t cling to your time, we only manage the performance & results
 
 ## Tech stack
 
@@ -72,6 +72,7 @@ The ideal candidate will be detail-oriented and possess excellent organizational
 - ETL with Airflow
 - Alarming and monitoring with AWS CloudWatch, Sentry, PagerDuty and Pingdom
 - Security with SonarCloud, AWS SecurityHub, AWS WAF, AWS GuardDuty, AWS Config
+- Test managemnet and automation with RobotFramework, Cypress and TestRail
 
 ## Our products and services
 
