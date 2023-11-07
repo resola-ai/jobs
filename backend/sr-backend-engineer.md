@@ -1,12 +1,12 @@
 ## Job brief
 
-We are looking for a Senior Backend developer to join our team.
+We are looking for a Senior Backend Engineer to join our team.
 
 You will be responsible for the server side of our web applications.
 
 If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you.
 
-As a Backend developer, you’ll work closely with our engineers to ensure system consistency and improve user experience.
+As a Senior Backend Engineer, you’ll work closely with our engineers to ensure system consistency and improve user experience.
 
 Ultimately, you should be able to develop and maintain functional and stable web applications to meet our company’s needs.
 
@@ -81,15 +81,17 @@ You should also be a team player.
 
 ## Our products and services
 
-deca.marketing is an all-in-one digital marketing platform that helps businesses of all sizes to plan, execute and optimize their online marketing campaigns. With a user-friendly interface and advanced features, deca.marketing simplifies the complex process of digital marketing and enables businesses to achieve their marketing goals with ease.
+Deca is an all-in-one digital marketing platform that helps businesses of all sizes to plan, execute and optimize their online marketing campaigns. With a user-friendly interface and advanced features, Deca simplifies the complex process of digital marketing and enables businesses to achieve their marketing goals with ease.
 
 Key Features:
 
-- Multi-Channel Marketing: deca.marketing supports multiple channels such as email, social media, search engine, and display advertising, allowing businesses to create a comprehensive marketing strategy.
+- Multi-Channel Marketing: Deca supports multiple channels such as email, social media, search engine, and display advertising, allowing businesses to create a comprehensive marketing strategy.
 - Automation: The platform automates several processes like email campaigns, social media posts, and PPC campaigns, saving businesses time and resources.
-- Analytics and Reporting: deca.marketing provides in-depth analytics and reporting features to help businesses measure the performance of their campaigns and make data-driven decisions.
+- Analytics and Reporting: Deca provides in-depth analytics and reporting features to help businesses measure the performance of their campaigns and make data-driven decisions.
 - Customization: The platform provides advanced customization options, allowing businesses to tailor their marketing campaigns to their specific needs.
-- Collaboration: deca.marketing offers collaboration features that enable teams to work together seamlessly, making it easier for businesses to manage their campaigns efficiently.
+- Collaboration: Deca offers collaboration features that enable teams to work together seamlessly, making it easier for businesses to manage their campaigns efficiently.
 - Target Market: Small and medium-sized businesses that want to improve their online presence and grow their customer base.
-- Competitive Advantage: deca.marketing's competitive advantage lies in its ease of use, multi-channel marketing capabilities, advanced automation features, and in-depth analytics and reporting capabilities.
-- Value Proposition: deca.marketing provides a user-friendly platform that simplifies the complex process of digital marketing, enabling businesses to create comprehensive marketing campaigns that are effective, efficient, and data-driven. By automating several marketing processes, deca.marketing saves businesses time and resources while providing in-depth analytics and reporting features that help them make data-driven decisions.
+- Competitive Advantage: Deca's competitive advantage lies in its ease of use, multi-channel marketing capabilities, advanced automation features, and in-depth analytics and reporting capabilities.
+- Value Proposition: Deca provides a user-friendly platform that simplifies the complex process of digital marketing, enabling businesses to create comprehensive marketing campaigns that are effective, efficient, and data-driven. By automating several marketing processes, Deca saves businesses time and resources while providing in-depth analytics and reporting features that help them make data-driven decisions.
+
+Visit our website at deca.marketing to learn more
