@@ -22,7 +22,7 @@ Come and join our team at Resola.
 
 ## Who we are
 
-Resola is at the forefront of marketing digital transformation (DX), developing cutting-edge solutions for marketing. We pride ourselves on our innovative approach and our dedicated team that turns complex challenges into user-friendly solutions. We are currently looking for a talented and enthusiastic Python/Django/FastAPI Backend Engineer to focus on API development and help us continue to deliver excellence to our clients.
+Resola is at the forefront of marketing digital transformation (DX), developing cutting-edge solutions for marketing. We pride ourselves on our innovative approach and our dedicated team that turns complex challenges into user-friendly solutions. Help us continue to deliver excellence to our clients.
 
 We are a distributed team in a multicultural environment.
 
