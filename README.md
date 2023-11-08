@@ -1,32 +1,42 @@
 # Jobs at Resola
 
-Come and join our team at Resola
+Come and join our team at Resola.
 
 ## Positions
 
-- [Data Engineer](data/readme.md)
-- [Fullstack Engineer](fullstack/readme.md)
-- [Backend Engineer](backend/readme.md)
-- [Frontend Engineer](frontend/readme.md)
-- [Mobile Engineer](mobile/readme.md)
-- [QA Engineer](qa/readme.md)
-- [UI/UX Designer](uiux/readme.md)
-- [Project Manager](pjm/readme.md)
-- [Product Manager](pjm/readme.md)
+- [Data Engineer](data/)
+- [Fullstack Engineer](fullstack/)
+- [Backend Engineer](backend/)
+- [Frontend Engineer](frontend/)
+- [Mobile Engineer](mobile/)
+- [QA Engineer](qa/)
+- [UI/UX Designer](uiux/)
+- [Project Manager](pjm/)
+- [Product Manager](pjm/)
 
 ## Apply with
 
 - [Application form](https://forms.gle/AFBYMoWmwieWofk36)
-- [ITviec](https://itviec.com/companies/resola-inc) 
+- [ITviec](https://itviec.com/companies/resola-inc)
 - [Angel.co](https://angel.co/company/resola/jobs)
+
+## Who we are
+
+Resola is at the forefront of marketing digital transformation (DX), developing cutting-edge solutions for marketing. We pride ourselves on our innovative approach and our dedicated team that turns complex challenges into user-friendly solutions. We are currently looking for a talented and enthusiastic Python/Django/FastAPI Backend Engineer to focus on API development and help us continue to deliver excellence to our clients.
+
+We are a distributed team in a multicultural environment.
+
+- 50+ people and counting.
+- From various nationalities.
+- Mix of on-site and remote.
 
 ## Where we are
 
 Mostly of the team works remotely, but our HQ is in Shibuya, Tokyo, Japan
 
-〒150-0036
-東京都渋⾕区南平台町15-13　
-帝都渋⾕ビル8F
+〒 150-0036
+東京都渋⾕区南平台町 15-13 　
+帝都渋⾕ビル 8F
 
 Tel: 03-6452-8986
 
@@ -34,44 +44,43 @@ Website: https://resola.ai/company
 
 ## What we do
 
-Together we develop and maintain 5 SaaS products in the Marketing and Operations segment
+Deca is an all-in-one digital marketing platform that helps businesses of all sizes to plan, execute and optimize their online marketing campaigns. With a user-friendly interface and advanced features, Deca simplifies the complex process of digital marketing and enables businesses to achieve their marketing goals with ease.
 
-You can check more details in each product website or in our parent company [Givery](https://givery.co.jp/services/) website
+Key Features:
 
-- [Synalio Web](https://synal.io)
-- [Synalio EC](https://synal.io/lp/ec/)
-- [Libero](https://libero-app.com)
-- [PEP](https://pep.work)
-- [Virtualstore](https://virtualstore.jp)
+- Multi-Channel Marketing: Deca supports multiple channels such as email, social media, search engine, and display advertising, allowing businesses to create a comprehensive marketing strategy.
+- Automation: The platform automates several processes like email campaigns, social media posts, and PPC campaigns, saving businesses time and resources.
+- Analytics and Reporting: Deca provides in-depth analytics and reporting features to help businesses measure the performance of their campaigns and make data-driven decisions.
+- Customization: The platform provides advanced customization options, allowing businesses to tailor their marketing campaigns to their specific needs.
+- Collaboration: Deca offers collaboration features that enable teams to work together seamlessly, making it easier for businesses to manage their campaigns efficiently.
+- Target Market: Small and medium-sized businesses that want to improve their online presence and grow their customer base.
+- Competitive Advantage: Deca's competitive advantage lies in its ease of use, multi-channel marketing capabilities, advanced automation features, and in-depth analytics and reporting capabilities.
+- Value Proposition: Deca provides a user-friendly platform that simplifies the complex process of digital marketing, enabling businesses to create comprehensive marketing campaigns that are effective, efficient, and data-driven. By automating several marketing processes, Deca saves businesses time and resources while providing in-depth analytics and reporting features that help them make data-driven decisions.
 
-## Who we are
-
-We are a distributed team in a multicultural environment
-
-- +55 engineers and counting
-- From 9 nationalities
-- Mix of on-site (40%) and remote (60%)
+Visit our website at [deca.marketing](https://deca.marketing) to learn more
 
 ## How we do it
 
-We do Agile Scrum
+We do Agile Scrum.
 
-- Sprints of 2 weeks (10 working days)
-- Daily standup at first working hour
-- Scrum ceremonies every 2 weeks (sprint planning, backlog grooming, retrospective, sprint review and demo and etc...)
-- Slack for async communication
-- Zoom and Google Meet for video calls
-- Monthly meeting to check results with our CEO and AMA
+- Sprints of 2 or 4 weeks.
+- Daily standup at first working hour.
+- Scrum ceremonies between sprints (sprint planning, backlog grooming, retrospective, sprint review and demo and etc...).
+- Slack for async communication.
+- Zoom and Google Meet for face to face meetings online.
+- Monthly meeting to check results with our CEO and AMA.
 
 ## Team structure
 
-Product teams for each of the product that we develop
+Small squads that can range from 5 to up to 10 people
 
-- 10 or more engineers in each team
-- 1 Product Manager or Project Manager per team
-- 1 Lead Engineer
-- 1 or more QA Engineer(s)
-- 1 or more UI/UX designer(s)
+Usually a squad is a cross-functional team which has the following roles
+
+- Manager (Product or Project Manager)
+- Backend Engineers
+- Frontend Engineers
+- QA Engineers
+- UI/UX designer
 
 ## Our stack
 

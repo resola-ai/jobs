@@ -1,4 +1,4 @@
-# Python/Django/FastAPI Backend Engineer (API Development)
+# AWS Cloud Data Engineer Specialist
 
 ## Location
 
@@ -11,39 +11,40 @@ Resola is at the forefront of marketing digital transformation (DX), developing 
 
 ## The Role
 
-As a Python/Django/FastAPI Backend Engineer, you will be responsible for developing and maintaining the backend API services that are critical to our platform. You will work closely with our frontend team and product managers to define feature specifications and build high-quality software solutions.
+We are seeking a highly skilled and experienced Data Engineer to join our technology team. The ideal candidate will have a strong background in AWS cloud services, data warehousing solutions including Redshift and Snowflake, and query services like Athena. You will be responsible for designing, building, and maintaining scalable and robust data pipelines, ensuring the integrity of data solutions, and supporting data-driven decision-making across the organization.
 
 ## Key Responsibilities
 
-- Design, build, and maintain efficient, reusable, and reliable Python code.
-- Develop robust and scalable APIs using the Django REST Framework.
-- Collaborate with front-end developers to integrate user-facing elements with server-side logic.
-- Implement security and data protection solutions.
-- Optimize applications for maximum speed and scalability.
-- Solve complex performance problems and architectural challenges.
-- Support and develop software engineers by providing advice, coaching, and educational opportunities.
+- Design and implement highly scalable data models on AWS Redshift and Snowflake platforms.
+- Build, optimize, and maintain conceptual and logical database models.
+- Develop and maintain data pipelines using AWS services and other data integration tools.
+- Ensure high data quality and integrity by implementing data checks and balances throughout the data lifecycle.
+- Collaborate with cross-functional teams to gather requirements and deliver data-driven solutions and insights.
+- Monitor and tune performance of data systems to ensure optimal efficiency and uptime.
+- Implement data security and compliance protocols in line with organizational standards.
+- Provide support for data analytics and business intelligence tools and activities.
+- Stay current with industry trends and advancements in data engineering and propose adoption of new technologies or practices where appropriate.
 
 ## Qualifications
 
-- Proficient in Python, with a good knowledge of Django web framework and FastAPI or Flask.
-- Familiarity with API development, RESTful principles, and best practices.
-- Understanding of databases and SQL - PostgreSQL is preferred.
-- Knowledge of version control tools, such as Git.
-- Good problem-solving skills and ability to handle complex development tasks.
-- Strong unit test and debugging skills.
+- Minimum of 3 years of experience as a Data Engineer or in a similar role.
+- Proven expertise in AWS services, including but not limited to S3, Redshift, Lambda, and Athena.
+- Experience with Snowflake’s data warehousing and compute solutions.
+- Strong knowledge of SQL and experience with relational databases and query authoring.
+- Familiarity with data pipeline and workflow management tools.
+- Ability to work with stakeholders to understand needs regarding data structure, availability, and delivery.
+- Excellent problem-solving skills and attention to detail.
 - Excellent written and verbal communication skills in English.
 
 ## Desirable Skills
 
-- Experience with Django REST framework is highly advantageous.
-- Experience with FastAPI or Flask.
-- Familiarity with front-end technologies (like JavaScript and HTML5) is a plus.
-- Experience with cloud platforms (AWS, GCP, Azure) and Docker containers.
-- Understanding of continuous integration/continuous deployment (CI/CD) pipelines.
+- Certifications in AWS or other cloud services.
+- Experience with big data tools (Hadoop, Spark, Kafka, etc.) is a plus.
+- Experience with scripting languages such as Python, Bash, etc.
+- Familiarity with data visualization tools and techniques.
 
 ## We Offer
 
-- A position open to all levels – whether you’re just starting or you’ve been coding for years, we encourage you to apply.
 - A competitive salary with a transparent progression pathway.
 - A flexible and supportive work environment that values work-life balance.
 - Opportunities for personal and professional development.
@@ -72,4 +73,4 @@ Visit our website at deca.marketing to learn more
 
 ## To Apply
 
-Please send your resume, a cover letter that includes your experience with backend development and API creation, and any examples of your work (e.g., GitHub links, portfolios) to y.everton@resola.ai. Please indicate “Python/Django Backend Engineer Application - [Your Name]” in the subject line.
+Use this link https://app.willotalent.com/invite/nKobdM/
